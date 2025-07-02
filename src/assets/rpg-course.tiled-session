@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "durotar.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "durotar.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 518,
+                "y": 515
+            }
+        },
+        "durotar.json#durotar": {
+            "scaleInDock": 1.5
+        },
+        "durotar.tsj": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Maksim/Desktop/RPG/RPG-GAME/src/assets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "durotar.json",
+        "durotar.tsj"
+    ],
+    "project": "rpg-course.tiled-project",
+    "recentFiles": [
+        "durotar.tsj",
+        "durotar.json"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.spacing": 1
+}
